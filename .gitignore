@@ -1,5 +1,2 @@
 data/*
-!data/application_test.7z
-!data/application_train.7z
-!data/HomeCredit_columns_description.csv
-!data/sample_submission.csv
+CLAUDE.md
